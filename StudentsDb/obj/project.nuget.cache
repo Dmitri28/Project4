@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "DkkrGr9Cw1fliMurC3f/UmZm2Tq/UnCkaStOHUJJSoRXQU790/s8aRnCOTfw0tuRI8I6dvMJuu5IOAXhe/iwdQ==",
+  "success": true,
+  "projectFilePath": "E:\\проект на c#\\StudentsDb\\StudentsDb\\StudentsDb.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\npgsql\\6.0.7\\npgsql.6.0.7.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
